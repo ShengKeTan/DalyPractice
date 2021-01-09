@@ -1,0 +1,16 @@
+
+#ignore library files
+util/*.a
+
+#ignore object files
+*.o
+
+#ignore dependent files
+*.d
+
+#ignore log files
+*.bak[0-9]*
+test/tmp/
+
+#ignore execute files
+test/sample_test

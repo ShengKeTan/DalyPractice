@@ -1,0 +1,8 @@
+#ignore library files
+./lib/*.a
+
+#ignore object files
+./*.o
+
+#ignore execute files
+./MemManager
